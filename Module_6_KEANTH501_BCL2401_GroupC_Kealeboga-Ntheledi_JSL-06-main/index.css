@@ -42,7 +42,7 @@ main {
 
 #menu {
     max-width: 60%;
-    overflow-y: auto;
+    overflow-y: auto; 
 }
 
 #order {
